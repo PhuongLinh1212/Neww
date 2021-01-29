@@ -16,7 +16,7 @@
     "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "interFb_Setting":"sd",
     "fluryId":"hehe",
-    "isShowAds":false
+    "isShowAds":true
   }, 
   "app_exists": {
     "id": "com.one.adx.tool.videoplayer.video.hdmaxvideoplayers",
