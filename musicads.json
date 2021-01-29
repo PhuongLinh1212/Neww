@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app":"",
-    "banner_setting": "ca-app-pub-2277813866725244/3811058783",
-    "inter_setting": "ca-app-pub-2277813866725244/2497977113",
-    "banner_main": "ca-app-pub-2277813866725244/3178851008",
-    "inter_main": "ca-app-pub-2277813866725244/8871813775",
+    "banner_setting": "ca-app-pub-2277813866725244/2632056097",
+    "inter_setting": "ca-app-pub-2277813866725244/4002630475",
+    "banner_main": "ca-app-pub-2277813866725244/1127402730",
+    "inter_main": "ca-app-pub-2277813866725244/6188157720",
     "banner_setting_new" : "",
     "inter_setting_new" : "",
     "banner_main_new" : "",
@@ -19,7 +19,7 @@
     "isShowAds":true
   }, 
   "app_exists": {
-    "id": "com.one.adx.ringtone.maker.mp3.cutter.audio.cutmusic",
+    "id": "one.adx.music.music.musicplayer.playermusic",
     "is_exists": true,
     "is_show_more": false
   },
