@@ -2,10 +2,10 @@
   "ads": {
     "id_app": "",
     "flury_id": "flury_id",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-2277813866725244/3811058783",
+    "inter_setting": "ca-app-pub-2277813866725244/2497977113",
+    "banner_main": "ca-app-pub-2277813866725244/3178851008",
+    "inter_main": "ca-app-pub-2277813866725244/8871813775",
     "banner_setting_new": "",
     "inter_setting_new": "",
     "banner_main_new": "",
@@ -16,7 +16,7 @@
     "fb_inter": ""
   },
   "app_exists": {
-    "id": "one.adx.music.music.musicplayer.playermusic",
+    "id": "com.one.adx.ringtone.maker.mp3.cutter.audio.cutmusic",
     "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
